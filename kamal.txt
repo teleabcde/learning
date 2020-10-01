@@ -1,0 +1,2 @@
+this is kamal file
+here we are learning git funtionality
